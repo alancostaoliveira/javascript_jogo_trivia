@@ -2,6 +2,8 @@
 
 Este projeto é um jogo de trivia simples desenvolvido com HTML, CSS e JavaScript. O objetivo do jogo é testar seus conhecimentos em diversas categorias de perguntas.
 
+https://alancostaoliveira.github.io/javascript_jogo_trivia/
+
 ## Estrutura do Projeto
 
 O projeto contém os seguintes arquivos e diretórios:
